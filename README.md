@@ -13,7 +13,7 @@ Political Party
 When you input the name of an Aspirant on the textbox form by the top right of the app it allows you to input in the apprpriate columns, the full name of an aspirant, the political office he/she is running for and the Party he/she is running under.
 
 # Database
-On my WAMP server, the pparty has a row titled “aspirants” which contains the above mentioned columns. The app connects to the database through the default port 3306.
+On my WAMP server using mysql, the pparty has a row titled “aspirants” which contains the above mentioned columns. The app connects to the database through the default port 3306.
 
 # Editing
 The app can 
