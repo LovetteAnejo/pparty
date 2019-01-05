@@ -7,7 +7,7 @@ ID
 First Name 
 Last Name
 Office
-Political PArty
+Political Party
 
 # How it works
 When you input the name of an Aspirant on the textbox form by the top right of the app it allows you to input in the apprpriate columns, the full name of an aspirant, the political office he/she is running for and the Party he/she is running under.
